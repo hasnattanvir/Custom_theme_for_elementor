@@ -1,0 +1,10 @@
+/* Elementor-specific styles */
+.elementor-widget-heading h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.elementor-widget-text-editor p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
